@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "name": "Choi Ari",
+      "studentID": "20505",
+      "nationality": "South Korea",
+      "family": {
+        "siblings": [{ "name": "Choi MK", "age": 23, "gender": "F" }],
+        "pets": [{ "name": "Gucci", "age": 0.8, "gender": "F" }]
+      }
+    },
+    {
+      "name": "Jane",
+      "studentID": 2141623,
+      "nationality": "South Korea",
+      "family": {
+        "siblings": [{ "name": "David", "age": 31, "gender": "M" }],
+        "pets": [
+          { "name": "mong", "age": 2, "gender": "M" },
+          { "name": "doong", "age": 7, "gender": "M" }
+        ]
+      }
+    },
+    {
+      "name": "yuna",
+      "studentID": 20504,
+      "nationality": "South Korea",
+      "family": {
+        "siblings": [
+          { "name": "WOO JOO", "age": 24, "gender": "M" },
+          { "name": "MIN JOO", "age": 24, "gender": "M" }
+        ],
+        "pets": [{ "name": null, "age": null, "gender": null }]
+      }
+    }
+  ]
+}
